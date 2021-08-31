@@ -37,6 +37,6 @@ Make all necessary changes to project level files for project to run
 
 ## Collaboration
 
-In this lab I collaborated with Daniel Dills, Prabin Singh, Davee Sok, and Michael Ryan
+In this lab I collaborated with Daniel Dills, Prabin Singh, Davee Sok, and Michael Ryan in addition to taking the testing from the [class repo](https://github.com/codefellows/seattle-code-python-401n3/tree/main/class-28)
 
 
