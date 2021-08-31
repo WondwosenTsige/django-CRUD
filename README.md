@@ -37,4 +37,6 @@ Make all necessary changes to project level files for project to run
 
 ## Collaboration
 
-In this lab I collaborated with Daniel Dills.
+In this lab I collaborated with Daniel Dills, Prabin Singh, Davee Sok, and Michael Ryan
+
+
